@@ -31,6 +31,7 @@ nav{
 }
 .nameBlock:link{
     text-decoration: none;
+    color:black;
 }
 .nameBlock:visited{
     text-decoration: none;
