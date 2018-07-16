@@ -165,3 +165,9 @@ p{
     width:auto;
     height: 15vw;
 }
+a:link{
+    color:black;
+}
+a:visited{
+    color:black;
+}
